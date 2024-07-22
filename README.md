@@ -3,13 +3,13 @@
 
 ## Projeto DigiBank
 
-O DigiBank é um sistema bancário simples desenvolvido em Java, que permite a gestão de contas correntes e poupanças para clientes. Este projeto inclui funcionalidades para adicionar, remover e exibir clientes, além de operações bancárias como saque, depósito, transferência e impressão de extratos.
+O DigiBank é um sistema bancário simples desenvolvido em Java, que permite a gestão de contas correntes e poupanças para clientes. Este projeto inclui funcionalidades para adicionar, remover e exibir contas, além de operações bancárias como saque, depósito, transferência e impressão de extratos.
 
 ## Funcionalidades
 
-- Adicionar novo cliente
-- Remover cliente existente
-- Exibir todos os clientes cadastrados
+- Adicionar novo conta
+- Remover conta
+- Exibir todos as contas cadastrados
 - Realizar operações bancárias (saque, depósito, transferência)
 - Imprimir extratos de contas
 
